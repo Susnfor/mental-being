@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mental-being/static/css/main.f134bf95.css",
+    "main.js": "/mental-being/static/js/main.19c37cbb.js",
+    "static/media/soundThree.mp3": "/mental-being/static/media/soundThree.fdd829948765e8f07786.mp3",
+    "static/media/soundOne.mp3": "/mental-being/static/media/soundOne.f3f2d27e15a851a020e5.mp3",
+    "static/media/soundTwo.mp3": "/mental-being/static/media/soundTwo.16c22220580b98d75dd3.mp3",
+    "static/media/logo.png": "/mental-being/static/media/logo.99103f6439258e2a4b2c.png",
+    "index.html": "/mental-being/index.html",
+    "main.f134bf95.css.map": "/mental-being/static/css/main.f134bf95.css.map",
+    "main.19c37cbb.js.map": "/mental-being/static/js/main.19c37cbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f134bf95.css",
+    "static/js/main.19c37cbb.js"
+  ]
+}
