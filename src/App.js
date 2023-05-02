@@ -62,8 +62,8 @@ function App() {
             floatIntensity={0.2} // Up/down float intensity, works like a multiplier with floatingRange,defaults to 1
             floatingRange={[1, 1]} // Range of y-axis values the object will float within, defaults to [-0.1,0.1]
           >
-            {/* <Butterfly scale={0.05} position={[-10, -2.5, -6]} />
-            <Butterfly scale={0.05} position={[10, -4, -10]} /> */}
+            <Butterfly scale={0.05} position={[-10, -2.5, -6]} />
+            <Butterfly scale={0.05} position={[10, -4, -10]} />
           </Float>
 
           <Float //middle butterfly
@@ -72,7 +72,7 @@ function App() {
             floatIntensity={0.2} // Up/down float intensity, works like a multiplier with floatingRange,defaults to 1
             floatingRange={[1, 1]} // Range of y-axis values the object will float within, defaults to [-0.1,0.1]
           >
-            {/* <Butterfly scale={0.05} position={[0, -12.5, 0]} /> */}
+            <Butterfly scale={0.05} position={[0, -12.5, 0]} />
           </Float>
 
           <Float
@@ -81,7 +81,7 @@ function App() {
             floatIntensity={0.2} // Up/down float intensity, works like a multiplier with floatingRange,defaults to 1
             floatingRange={[1, 1]} // Range of y-axis values the object will float within, defaults to [-0.1,0.1]
           >
-            {/* <Bouquet scale={5} position={[0, -30, -10]}/> */}
+            <Bouquet scale={5} position={[0, -30, -10]}/>
           </Float>
         </Scroll>
 
